@@ -64,7 +64,7 @@
                 <a href="staff_login.php">Staff here?</a>
             </div>
             <button class="w-100 btn btn-lg btn-primary" type="submit" name="submit">Log In</button>
-            <p class="mt-5 mb-3 text-muted">&copy; 2021/2022</p>
+            <p class="mt-5 mb-3 text-muted">&copy; 2021</p>
         </form><br>
     </main>
 
