@@ -46,11 +46,11 @@ if (isset($_SESSION['teacher_username'])) {
 
     </head>
 
-    <body class="text-center hold-transition sidebar-mini">
+    <body class="text-center hold-transition sidebar-mini layout-fixed">
         <div class="wrapper">
 
             <!-- Navbar -->
-            <nav class="main-header navbar navbar-expand navbar-blue navbar-light">
+            <nav class="main-header navbar navbar-expand navbar-blue navbar-light ">
                 <!-- Left navbar links -->
                 <ul class="navbar-nav">
                     <li class="nav-item">
@@ -77,7 +77,7 @@ if (isset($_SESSION['teacher_username'])) {
             <!-- /.navbar -->
 
             <!-- Main Sidebar Container -->
-            <aside class="main-sidebar sidebar-dark-blue elevation-4 layout-fixed">
+            <aside class="main-sidebar sidebar-dark-blue elevation-4">
                 <!-- Brand Logo -->
                 <a href="index3.html" class="brand-link">
                     <img src="" class="brand-image img-circle elevation-3" style="opacity: .8">
