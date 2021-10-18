@@ -77,7 +77,7 @@ if (isset($_SESSION['teacher_username'])) {
             <!-- /.navbar -->
 
             <!-- Main Sidebar Container -->
-            <aside class="main-sidebar sidebar-dark-blue elevation-4">
+            <aside class="main-sidebar sidebar-dark-blue elevation-4 layout-fixed">
                 <!-- Brand Logo -->
                 <a href="index3.html" class="brand-link">
                     <img src="" class="brand-image img-circle elevation-3" style="opacity: .8">
